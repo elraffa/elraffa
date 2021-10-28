@@ -1,4 +1,6 @@
-### Hi there 👋. My name is Fede. I'm a Full Stack Web Developer with 2 years of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. TailwindCSS, SCSS. Scrum & Agile inspired.
+### Hi there 👋.
+
+#### My name is Fede. I'm a Full Stack Web Developer with 2 years of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. TailwindCSS, SCSS. Scrum & Agile inspired.
 
 - 🌱 I’m currently learning Next.js
 
