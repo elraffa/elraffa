@@ -5,7 +5,7 @@
 ### My name is Fede. I'm a Full Stack Web Developer with experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, HTML/CSS. TailwindCSS, SCSS. Also proficient in WordPress. Laravel enthusiast.
 
 - 🔭 I’m currently working on a gardening tips app: https://www.huerta.tips It's currently built in HTML, JS and CSS. Planning on moving production to Next.js Framework. TODO: Build an API.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open Source Projects, Crypto Projects, DAOs
 
 <!--
